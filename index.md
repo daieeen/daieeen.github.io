@@ -13,10 +13,21 @@
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 취미
+강아지 산책
+유명한 빵집 찾아다니기
 
+## Favorite
+아이스 아메리카노 사서 돌아다니기
+밤에 캔들키고 라디오 듣기
+간단한 운동
+머리에 지식 쌓기
+파스텔 톤 옷
+애플
+### 올 해 목표
+책 10권은 읽기
+기본적인 코딩 실력
+영어 회화 공부하기
 - Bulleted
 - List
 
